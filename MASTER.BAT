@@ -1,4 +1,5 @@
 @ECHO OFF
+REM Erik Johnson - EkriirkE 2022-01-06
 CLS
 ECHO	A) Attack
 ECHO	B) Canyon
